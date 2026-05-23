@@ -22,10 +22,7 @@ Frontend Developer | React Enthusiast | UI/UX Learner
 
 ## 🚀 Live Preview
 
-> (Add your Vercel or deployment link here)
-
-Example:
-https://lawyer-portfolio.vercel.app
+https://lawyer-portfolio-ashen.vercel.app
 
 ---
 
