@@ -49,10 +49,3 @@ https://lawyer-portfolio-ashen.vercel.app
 
 ---
 
-## 📸 Project Preview
-
-![Project Preview](src/images/readme.jpeg)
-
----
-
-## 📂 Project Structure
